@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[[中文]](/about-zh/)
+[[中文]](/cn/)
 
-I am currently a Master's student at **Beihang University**, majoring in Energy and Power Engineering. My research interests include **Human-Computer Interaction (HCI)**, **Time Series Analysis**, **UAV Control**, and **Embodied AI**.
+I am currently a Master's student at **Beihang University**, majoring in Energy and Power Engineering. My research interests include **Embodied AI**， **Human-Computer Interaction (HCI)**, **Time Series Analysis**, and **UAV Control**.
 
 Education
 ======
