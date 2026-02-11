@@ -6,7 +6,7 @@ excerpt: 'Detecting and recognizing continuous hand gestures for emergency HRI u
 date: 2024-01-01
 venue: 'IEEE Transactions on Instrumentation and Measurement (TIM)'
 category: manuscripts
-citation: 'Shaofan Wang, Tao Zhang. &quot;Continuous Hand Gestures Detection and Recognition in Emergency Human-Robot Interaction Based on the Inertial Measurement Unit.&quot; <i>IEEE Transactions on Instrumentation and Measurement (TIM)</i>.'
+citation: 'Shaofan Wang, <b>Tao Zhang</b>. &quot;Continuous Hand Gestures Detection and Recognition in Emergency Human-Robot Interaction Based on the Inertial Measurement Unit.&quot; <i>IEEE Transactions on Instrumentation and Measurement (TIM)</i>.'
 ---
 Published in *IEEE Transactions on Instrumentation and Measurement (TIM)*.
 

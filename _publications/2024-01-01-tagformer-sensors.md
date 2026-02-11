@@ -6,7 +6,7 @@ excerpt: 'A multimodal fusion network for recognizing pilot stress using physiol
 date: 2024-01-01
 venue: 'IEEE Sensors Journal'
 category: manuscripts
-citation: 'Shaofan Wang, Yuangan Li, Tao Zhang. &quot;TAGformer: A Multimodal Physiological Signals Fusion Network for Pilot Stress Recognition.&quot; <i>IEEE Sensors Journal</i>.'
+citation: 'Shaofan Wang, Yuangan Li, <b>Tao Zhang</b>. &quot;TAGformer: A Multimodal Physiological Signals Fusion Network for Pilot Stress Recognition.&quot; <i>IEEE Sensors Journal</i>.'
 ---
 Published in *IEEE Sensors Journal*.
 

@@ -6,7 +6,7 @@ excerpt: 'Autonomous visual landing for UAVs using visual attention and Deep RL.
 date: 2023-07-01
 venue: '2023 42nd Chinese Control Conference (CCC)'
 category: conferences
-citation: 'Shaofan Wang, Ke Li, Jiaao Chen, Tao Zhang. (2023). &quot;Unmanned Aerial Vehicle Autonomous Visual Landing through Visual Attention-Based Deep Reinforcement Learning.&quot; <i>2023 42nd Chinese Control Conference (CCC)</i>.'
+citation: 'Shaofan Wang, Ke Li, Jiaao Chen, <b>Tao Zhang</b>. (2023). &quot;Unmanned Aerial Vehicle Autonomous Visual Landing through Visual Attention-Based Deep Reinforcement Learning.&quot; <i>2023 42nd Chinese Control Conference (CCC)</i>.'
 ---
 Published in *2023 42nd Chinese Control Conference (CCC)*.
 
