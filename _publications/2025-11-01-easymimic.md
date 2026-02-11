@@ -5,6 +5,7 @@ permalink: /publication/2025-easymimic
 excerpt: 'A low-cost, high-efficiency framework for robot imitation learning from human videos.'
 date: 2025-11-01
 venue: 'ICRA'
+category: conferences
 citation: '<b>Co-first Author</b>. (Submitted). &quot;EasyMimic: A Low-Cost Framework for Robot Imitation Learning from Human Videos.&quot; <i>ICRA</i>. (Submitted)'
 ---
 Accepted by *2026 ICRA*.
