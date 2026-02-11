@@ -6,7 +6,7 @@ excerpt: 'This paper introduces supervised contrastive learning and homoscedasti
 date: 2024-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems (TNNLS)'
 category: manuscripts
-citation: '<b>Tao Zhang</b>. (2024). &quot;Time Series Classification based on Supervised Contrastive Learning and Homoscedastic Uncertainty.&quot; <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>. (Accepted)'
+citation: '<b>Tao Zhang</b>.'
 ---
 Accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*.
 

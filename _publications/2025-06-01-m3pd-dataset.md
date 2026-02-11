@@ -6,7 +6,7 @@ excerpt: 'Research on multi-modal physiological dataset construction and alignme
 date: 2025-06-01
 venue: 'IMWUT (CCF A)'
 category: manuscripts
-citation: '<b>Co-first Author</b>. (Submitted). &quot;M3PD Dataset: Dual-view Photoplethysmography (PPG) Using Front-and-rear Cameras of Smartphones in Lab and Clinical Settings.&quot; <i>IMWUT</i>. (Under Review)'
+citation: '<b>Co-first Author</b>.'
 ---
 **Status**: Submitted to *IMWUT (CCF A)*.
 

@@ -6,7 +6,7 @@ excerpt: 'This study proposes an optimization scheme for gesture interaction in 
 date: 2024-01-01
 venue: 'International Journal of Human-Computer Interactions (IJHCI)'
 category: manuscripts
-citation: '<b>Tao Zhang</b>. (2024). &quot;Enhancing Gesture-Based Human-Drone Interaction in Emergency Scenarios: An Elicitation Study.&quot; <i>International Journal of Human-Computer Interactions (IJHCI)</i>.'
+citation: '<b>Tao Zhang</b>.'
 ---
 Published in the *International Journal of Human-Computer Interactions (IJHCI)*, addresses the needs of drone operation in emergency scenarios. We proposed an optimization scheme for gesture interaction, which provides a theoretical basis for improving efficiency in human-machine collaboration.
 
