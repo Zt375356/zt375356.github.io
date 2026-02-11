@@ -6,7 +6,7 @@ excerpt: 'A multimodal fusion network for recognizing pilot stress using physiol
 date: 2024-01-01
 venue: 'IEEE Sensors Journal'
 category: manuscripts
-citation: 'Shaofan Wang, Yuangan Li, <b>Tao Zhang</b>.'
+citation: 'Shaofan Wang, Yuangan Li, <b>Tao Zhang</b>, Ke Li'
 ---
 Published in *IEEE Sensors Journal*.
 

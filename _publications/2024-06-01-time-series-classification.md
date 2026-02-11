@@ -6,7 +6,7 @@ excerpt: 'This paper introduces supervised contrastive learning and homoscedasti
 date: 2024-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems (TNNLS)'
 category: manuscripts
-citation: '<b>Tao Zhang</b>.'
+citation: '<b>Tao Zhang</b>, Ke Li, Shaofan Wang'
 ---
 Accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*.
 

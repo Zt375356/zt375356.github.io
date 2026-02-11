@@ -6,7 +6,7 @@ excerpt: 'Research on multi-modal physiological dataset construction and alignme
 date: 2025-06-01
 venue: 'IMWUT (CCF A)'
 category: manuscripts
-citation: '<b>Co-first Author</b>.'
+citation: 'Jin Tang, <b>Tao Zhang</b>, Jiawei Li, Yunyuan Zhang, Ming Zhang, Ke Wang, Yuntao Hao, Bingsheng Wang, Hewu Li'
 ---
 **Status**: Submitted to *IMWUT (CCF A)*.
 

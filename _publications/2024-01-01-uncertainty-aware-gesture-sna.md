@@ -6,7 +6,7 @@ excerpt: 'Addressing uncertainty in hand gesture recognition for safety-critical
 date: 2024-01-01
 venue: 'Sensors and Actuators A: Physical (SNA)'
 category: manuscripts
-citation: 'Shaofan Wang, Ke Li, <b>Tao Zhang</b>.'
+citation: 'Shaofan Wang, Ke Li, <b>Tao Zhang</b>, Zhaopeng Zhang'
 ---
 Published in *Sensors and Actuators A: Physical (SNA)*.
 
