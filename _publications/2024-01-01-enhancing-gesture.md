@@ -7,6 +7,6 @@ date: 2024-01-01
 venue: 'International Journal of Human-Computer Interactions (IJHCI)'
 citation: 'Tao Zhang. (2024). &quot;Enhancing Gesture-Based Human-Drone Interaction in Emergency Scenarios: An Elicitation Study.&quot; <i>International Journal of Human-Computer Interactions (IJHCI)</i>.'
 ---
-This study, published in the *International Journal of Human-Computer Interactions (IJHCI)*, addresses the needs of drone operation in emergency scenarios. We proposed an optimization scheme for gesture interaction, which provides a theoretical basis for improving efficiency in human-machine collaboration.
+Published in the *International Journal of Human-Computer Interactions (IJHCI)*, addresses the needs of drone operation in emergency scenarios. We proposed an optimization scheme for gesture interaction, which provides a theoretical basis for improving efficiency in human-machine collaboration.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
