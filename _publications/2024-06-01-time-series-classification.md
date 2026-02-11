@@ -6,9 +6,8 @@ excerpt: 'This paper introduces supervised contrastive learning and homoscedasti
 date: 2024-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems (TNNLS)'
 category: manuscripts
-paper_state: 'Accepted to'
 citation: '<b>Tao Zhang</b>, Ke Li, Shaofan Wang'
 ---
-Accepted to *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*.
+Published in *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*.
 
 Addressing the pain points of time series data classification, this research introduces supervised contrastive learning and homoscedastic uncertainty modeling, significantly enhancing the robustness of classification models.
