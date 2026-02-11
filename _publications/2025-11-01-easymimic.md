@@ -6,9 +6,10 @@ excerpt: 'A low-cost, high-efficiency framework for robot imitation learning fro
 date: 2025-11-01
 venue: 'ICRA'
 category: conferences
+paper_state: 'Accepted to'
 citation: '<b>Tao Zhang*</b>, Song Xia*, Ye Wang*, Qin Jin'
 ---
-Accepted by *2026 ICRA*.
+Accepted to *2026 ICRA*.
 
 Completed during internship at **Renmin University of China (AIM3 Lab) (Jul 2025 - Nov 2025)**.
 Core responsibility: Building a low-cost, high-efficiency software and hardware framework for human video imitation learning. Verified the feasibility of low-cost hardware solutions in embodied intelligence tasks by optimizing data collection links and model training strategies.
