@@ -24,4 +24,8 @@ Research Internships
 
 Awards
 ======
-* *Please update your awards here.*
+* **National Scholarship for Postgraduates** (Ministry of Education of PRC), 2025.
+* **Second Prize**, China Graduate Future Aircraft Innovation Competition, 2024.
+* **First Prize**, Academic Scholarship for Postgraduates (Beihang University), 2025.
+* **Second Prize**, Academic Scholarship for Postgraduates (Beihang University), 2024.
+* **Second Prize**, Academic Scholarship for Postgraduates (Beihang University), 2023.
