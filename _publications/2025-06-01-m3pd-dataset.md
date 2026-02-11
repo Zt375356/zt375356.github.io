@@ -5,8 +5,9 @@ permalink: /publication/2025-m3pd-dataset
 excerpt: 'Research on multi-modal physiological dataset construction and alignment strategies.'
 date: 2025-06-01
 venue: 'IMWUT (CCF A)'
+paper_state: 'Submitted to'
 category: manuscripts
-citation: 'Jiankai Tang, <b>Tao Zhang</b>, Jia Li, Yiru Zhang, Mingyu Zhang, Kegang Wang, Yuming Hao, Bolin Wang, Haiyang Li, Xingyao Wang, Yuanchun Shi, Yuntao Wang, Sichong Qian'
+citation: 'Jiankai Tang*, <b>Tao Zhang*</b>, Jia Li*, Yiru Zhang, Mingyu Zhang, Kegang Wang, Yuming Hao, Bolin Wang, Haiyang Li, Xingyao Wang, Yuanchun Shi, Yuntao Wang, Sichong Qian'
 ---
 **Status**: Submitted to *IMWUT (CCF A)*.
 

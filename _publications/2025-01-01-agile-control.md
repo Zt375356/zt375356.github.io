@@ -5,6 +5,7 @@ permalink: /publication/2025-agile-control
 excerpt: 'Integrating Mixed Reality with Shared Autonomy for efficient UAV agile control.'
 date: 2025-01-01
 venue: 'Advanced Engineering Informatics (AEI)'
+paper_state: 'Submitted to'
 category: manuscripts
 citation: '<b>Tao Zhang*</b>, Shaofan Wang*.'
 ---
