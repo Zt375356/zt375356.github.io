@@ -24,6 +24,10 @@ main:
   #   url: /year-archive/
   - title: "CV"
     url: /cv/
+
+  - title: "中文"
+    url: /cn/
+
     
   # - title: "CV"
   #   url: /cv-json/
