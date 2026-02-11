@@ -11,27 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Energy and Power Engineering**, Beihang University, 2023 - Present
+* **B.E. in Flight Control and Information Engineering**, Beihang University, 2019 - 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Jul 2025 - Nov 2025: Research Intern**
+  * **Renmin University of China (AIM3 Lab)**
+  * Duties: Deeply engaged in Embodied AI and Visual Imitation Learning.
+  * Achievements: 
+    * Built a low-cost, high-efficiency hardware and software framework for human video imitation learning.
+    * Optimized data collection pipelines and model training strategies.
+    * Verified the feasibility of low-cost hardware solutions in embodied intelligence tasks.
+    * Submitted a paper to **ICRA** (Co-first author).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Feb 2025 - Jun 2025: Research Intern**
+  * **Tsinghua University (Key Lab of Pervasive Computing, MOE)**
+  * Duties: Focused on R&D of multi-modal physiological perception algorithms for smartphones.
+  * Achievements: 
+    * Independently built a multi-modal physiological dataset from scratch.
+    * Explored efficient alignment and fusion strategies for dual-view PPG modalities.
+    * Submitted a paper to the top HCI journal **IMWUT (CCF A)** (Co-first author).
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
