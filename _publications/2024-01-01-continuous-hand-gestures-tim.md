@@ -6,7 +6,7 @@ excerpt: 'Detecting and recognizing continuous hand gestures for emergency HRI u
 date: 2024-01-01
 venue: 'IEEE Transactions on Instrumentation and Measurement (TIM)'
 category: manuscripts
-citation: 'Shaofan Wang, <b>Tao Zhang</b>, Yuangan Li, Pengcheng Li, Huapeng Wu, Ke Li'
+citation: 'Shaofan Wang, <b>Tao Zhang</b>, Yuangan Li, Pengjiao Li, Haopeng Wu, Ke Li'
 ---
 Published in *IEEE Transactions on Instrumentation and Measurement (TIM)*.
 

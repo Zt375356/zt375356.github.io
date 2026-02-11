@@ -6,7 +6,7 @@ excerpt: 'A low-cost, high-efficiency framework for robot imitation learning fro
 date: 2025-11-01
 venue: 'ICRA'
 category: conferences
-citation: '<b>Co-first Author</b>.'
+citation: '<b>Tao Zhang*</b>, Song Xia*, Ye Wang*, Qin Jin'
 ---
 Accepted by *2026 ICRA*.
 
